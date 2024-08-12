@@ -8,5 +8,5 @@ I took this list as a starting point. https://medium.com/coders-camp/180-data-sc
 
 1. [Stock Price Prediction & Forecasting with LSTM Neural Networks in Python](https://www.youtube.com/watch?v=CbTU92pbDKw) available as AXON_Stock_Forecasting_with_LSTMs.ipynb
 2. [House Price Prediction in Python - Full Machine Learning Project](https://www.youtube.com/watch?v=Wqmtf9SA_kk) available as House_Price_Prediction.ipynb
-3. [Income Prediction Machine Learning Project in Python](https://www.youtube.com/watch?v=dhoKFqhVJu0) based on the [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset) available at Kaggle. 
+3. [Income Prediction Machine Learning Project in Python](https://www.youtube.com/watch?v=dhoKFqhVJu0) based on the [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset) available at Kaggle. This is a KNN dataset. 
 
