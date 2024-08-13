@@ -16,4 +16,6 @@ I took this list as a starting point. https://medium.com/coders-camp/180-data-sc
 1. https://youtu.be/EMoLTicNR6w?si=KdXP85neAc0rtlSF
 2. https://youtu.be/VpMGXfhDQXc?si=JHGPGgpr-wL0n0-y
 3. https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K
+4. https://www.youtube.com/watch?v=hG8K5h2J-5g&list=PLdF3rLdF4ICQ4-fSEucMqoqMz1tEyjp9q
+
 
