@@ -22,6 +22,7 @@ I took this list as a [starting point.](https://medium.com/coders-camp/180-data-
 4. https://www.youtube.com/watch?v=MoqgmWV1fm8&t=1s
 5. https://www.youtube.com/watch?v=oKYxU8Kr900&list=PL_1pt6K-CLoCM3kyfOfsX5vn-_U8w9b4H&index=2
 6. https://www.youtube.com/watch?v=xi0vhXFPegw
+7. https://www.youtube.com/watch?v=epidA1fBFtI
 
 
 
