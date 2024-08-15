@@ -2,7 +2,7 @@
 
 I want to practice and improve my Data Science and Machine Learning skills. 
 
-I took this list as a starting point. https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9 But I started doing ML and Data Science Videos I found intersting also in Youtube. 
+I took this list as a [starting point.](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9) But I started doing ML and Data Science Videos I found intersting also in Youtube. 
 
 # List 
 
