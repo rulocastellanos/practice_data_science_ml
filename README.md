@@ -22,15 +22,16 @@ I took this list as a [starting point.](https://medium.com/coders-camp/180-data-
 
 # Possible next videos
 
-1. https://youtu.be/VpMGXfhDQXc?si=JHGPGgpr-wL0n0-y
-2. https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K
-3. https://www.youtube.com/watch?v=hG8K5h2J-5g&list=PLdF3rLdF4ICQ4-fSEucMqoqMz1tEyjp9q
-4. https://www.youtube.com/watch?v=MoqgmWV1fm8&t=1s
-5. https://www.youtube.com/watch?v=oKYxU8Kr900&list=PL_1pt6K-CLoCM3kyfOfsX5vn-_U8w9b4H&index=2
-6. https://www.youtube.com/watch?v=xi0vhXFPegw
-7. https://www.youtube.com/watch?v=epidA1fBFtI
-8. https://www.youtube.com/watch?v=vSgJ3bOyE0w
-9. https://www.youtube.com/watch?v=CrSC1ZA9j0M (html)
+1.https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1 (The spelled-out intro to neural networks and backpropagation: building micrograd)
+2. https://youtu.be/VpMGXfhDQXc?si=JHGPGgpr-wL0n0-y
+3. https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K
+4. https://www.youtube.com/watch?v=hG8K5h2J-5g&list=PLdF3rLdF4ICQ4-fSEucMqoqMz1tEyjp9q
+5. https://www.youtube.com/watch?v=MoqgmWV1fm8&t=1s
+6. https://www.youtube.com/watch?v=oKYxU8Kr900&list=PL_1pt6K-CLoCM3kyfOfsX5vn-_U8w9b4H&index=2
+7. https://www.youtube.com/watch?v=xi0vhXFPegw
+8. https://www.youtube.com/watch?v=epidA1fBFtI
+9. https://www.youtube.com/watch?v=vSgJ3bOyE0w
+10. https://www.youtube.com/watch?v=CrSC1ZA9j0M (html)
    
 
 
