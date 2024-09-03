@@ -15,7 +15,8 @@ I took this list as a [starting point.](https://medium.com/coders-camp/180-data-
 7. [Time Series Forecasting with XGBoost](https://www.youtube.com/watch?v=vV12dGe_Fho) **What is the objective?** Create a model that predicts future foorectasting using XGBoost. 'time series forecasting example in python using a machine learning model XGBoost to predict energy consumption with python.' **What did I practice?** Setting the datetime as an index. Using seaborn package  to create time sseries graphs. Crate train and test based on arbitrary point in time. Create new date variables based on date (for example, month, day of year). see the importance of each feauture compared to hour target (consumption). Create an XGBoost model and modifing learning_rate = 0.01 to prevent overfitting. CReate a dataframe baased on the importance of the feature according to the model. Calculate the prediction and thhen the error comparing our prediction with our real data. **Where to find my code?** [Check this link. ](https://github.com/rulocastellanos/practice_data_science_ml/blob/main/Time_Series_Forecasting_with_XGBoost.ipynb)
 8. Time Series 2
 9. Addition with ML
-10. Health Insurance Cost Prediction 
+10. Health Insurance Cost Prediction
+11. Heart Disease Prediction
 
 
 
